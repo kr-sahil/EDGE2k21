@@ -1,0 +1,29 @@
+body{
+    margin:50px 30px 30px 30px;
+    background-color: aqua;
+}
+.a{
+    color:red;
+}
+table{
+    border-collapse:collapse;
+    width:400px;
+}
+table, td, th {
+    border: 1px solid black;
+  }
+  th, td {
+    padding: 15px;
+    text-align: left;
+  }
+  tr:nth-child(even) {background-color: #f2f2f2;}
+  th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color:lime;
+    color:black;
+  }
+  #b{
+    
+  }
